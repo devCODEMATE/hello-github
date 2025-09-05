@@ -27,7 +27,7 @@ Create and share **simple, practical** resources to learn programming and AI fro
 - **Git/GitHub**: basic workflow, issues & PRs.
 
 ## 🛣️ 2025 Roadmap (summary)
-1. Basic web (HTML/CSS/JS) → 2. Automations/Agents → 3. Python basics →  
+1. HTML/CSS/JS → 2. Automations/Agents → 3. Python basics →  
 4. Data & visualization → 5. APIs & micro-projects → 6. Applied AI.
 
 ## 🧰 Tech stack (learning/practicing)
